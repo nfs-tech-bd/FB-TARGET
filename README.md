@@ -27,3 +27,7 @@ Easily
 * `cd FB-TARGET`
 
 * `python2 FB-TARGET.py`
+
+### For Wordlist Making Tool
+
+<a href="http://github.com/nfs-tech-bd/WORDLIST">NFS-TECH-BD Wordlist Tool</a>
